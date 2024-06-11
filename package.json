@@ -1,0 +1,12 @@
+{
+  "name": "algos2hw",
+  "version": "1.0.0",
+  "description": "homework to test various data structures",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
